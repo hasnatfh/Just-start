@@ -122,8 +122,16 @@ git push -u origin master
 	
 ```
 	
+<<<<<<< HEAD
 
 	
 	
 	
 	
+=======
+	
+	
+	
+	
+	
+>>>>>>> 9f37c1518f1fbd65b4c063935e0f068ba3704fc4
