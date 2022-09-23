@@ -122,6 +122,8 @@ add and commit [together](short form)
 git commit -a -m "Updated "
 ```
 ...for bitbucket...	
+
+```
 git push -u origin master 	
 	
 ```
