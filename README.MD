@@ -116,10 +116,40 @@ git push -u origin main
 git add .
 git commit -m ""
 git push -u origin main
-
+```
+add and commit [together](short form) 
+```
+git commit -a -m "Updated "
+```
 ...for bitbucket...	
 git push -u origin master 	
 	
 ```
 	
 
+	..........pull ( update local file ) when you/anyone edit file in Github.............................	
+
+```
+git pull origin
+```
+	
+	..........see if the file edited in Github.............................	
+	
+```
+git fetch origin	
+```	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
