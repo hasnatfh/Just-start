@@ -111,7 +111,7 @@ git branch -M main
 git push -u origin main	
 ```	
 	
-	..........push after editing or adding a new file.............................
+..........push after editing or adding a new file.............................
 ```	
 git add .
 git commit -m ""
@@ -129,13 +129,13 @@ git push -u origin master
 ```
 	
 
-	..........pull ( update local file ) when you/anyone edit file in Github.............................	
+..........pull ( update local file ) when you/anyone edit file in Github.............................	
 
 ```
 git pull origin
 ```
 	
-	..........see if the file edited in Github.............................	
+..........see if the file edited in Github.............................	
 	
 ```
 git fetch origin	
